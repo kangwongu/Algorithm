@@ -9,7 +9,7 @@
 5. 동적계획법 [[코드]](https://github.com/kangwongu/Algorithm/blob/main/code/dynamic_programming.py)
 6. 퀵정렬 [[코드]](https://github.com/kangwongu/Algorithm/blob/main/code/quick_sort.py)
 7. 병합정렬 [[코드]](https://github.com/kangwongu/Algorithm/blob/main/code/merge_sort.py)
-
+8. 이진탐색 [[코드]](https://github.com/kangwongu/Algorithm/blob/main/code/binary_search.py)
 
 ---
 ## 알고리즘 기초 문제
