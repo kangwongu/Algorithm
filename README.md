@@ -10,6 +10,8 @@
 6. 퀵정렬 [[코드]](https://github.com/kangwongu/Algorithm/blob/main/code/quick_sort.py)
 7. 병합정렬 [[코드]](https://github.com/kangwongu/Algorithm/blob/main/code/merge_sort.py)
 8. 이진탐색 [[코드]](https://github.com/kangwongu/Algorithm/blob/main/code/binary_search.py)
+9. 너비우선탐색(BFS) [[코드]](https://github.com/kangwongu/Algorithm/blob/main/code/bfs.py)
+
 
 ---
 ## 알고리즘 기초 문제
