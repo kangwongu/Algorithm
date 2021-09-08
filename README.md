@@ -12,6 +12,7 @@
 8. 이진탐색 [[코드]](https://github.com/kangwongu/Algorithm/blob/main/code/binary_search.py)
 9. 너비우선탐색(BFS) [[코드]](https://github.com/kangwongu/Algorithm/blob/main/code/bfs.py)
 10. 깊이우선탐색(DFS) [[코드]](https://github.com/kangwongu/Algorithm/blob/main/code/dfs.py)
+11. 탐욕알고리즘(Greedy) [[코드]](https://github.com/kangwongu/Algorithm/blob/main/code/greedy.py)
 
 ---
 ## 알고리즘 기초 문제
